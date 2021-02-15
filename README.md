@@ -30,7 +30,7 @@ $ npm start
 
 ## Contributors
 
-- <a href="https://github.com/RajatSablok">Rajat Sablok</a>
+- <a href="https://github.com/stark1996">Steven Fernandes</a>
 
 ## License
 
