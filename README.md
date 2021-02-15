@@ -12,7 +12,7 @@
 ## Instructions to run
 
 ```
-$ git clone https://github.com/RajatSablok/nodejs-razorpay.git
+$ git clone https://github.com/stark1996/nodejs-razorpay.git
 $ cd nodejs-razorpay
 $ cd razorpay-backend
 $ npm install
